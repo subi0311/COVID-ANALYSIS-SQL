@@ -1,3 +1,12 @@
-# COVID-ANALYSIS-SQL
-📌 Project Overview
-This project analyzes COVID-19 data using SQL to extract meaningful insights about the pandemic. The dataset includes information on infection rates, death rates, vaccination progress, and other key metrics. By querying the data, I have uncovered trends, patterns, and insights that help in understanding the impact of COVID-19 globally and regionally.
+# COVID Analysis SQL
+
+This project performs an in-depth analysis of global COVID-19 data using SQL. The goal is to extract valuable insights about infection rates, death percentages, population impact, and vaccination progress across different countries and continents.
+
+## 📁 Datasets Used
+
+The analysis is based on two datasets from the `PortfolioProject` database:
+
+- `covid_deaths$`: Contains information about COVID-19 cases, deaths, population, and date-wise breakdown by location.
+- `covid_vaccination$`: Contains vaccination details such as daily new vaccinations.
+
+
